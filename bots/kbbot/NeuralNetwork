@@ -1,0 +1,11 @@
+# neural net definition
+
+def neural_network(x,theta):
+    w = theta[0]
+    b = theta[1]
+    a = theta[2]
+    for i in range(t):
+        x[t+1] = a * (1 / (1 + exp(w * xt - b))
+
+
+optim(neural_network,theta = [0.5,0.5,0.5],iter = 10000)
